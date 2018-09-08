@@ -44,8 +44,8 @@ input#search-bar{
 .search-icon{
   position: relative;
   float: right;
-  width: 75px;
-  height: 75px;
-  top: -62px;
-  right: -45px;
+  width: 3%;
+  height: 3%;
+  top: -35px;
+  right: -30px;
 }
